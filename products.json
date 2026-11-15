@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {"id": "korpus", "title": "Корпусная мебель"},
+    {"id": "soft", "title": "Мягкая мебель"},
+    {"id": "tables", "title": "Столы и стулья"},
+    {"id": "doors", "title": "Двери"},
+    {"id": "floors", "title": "Полы"},
+    {"id": "walls", "title": "Стены и декор"},
+    {"id": "bath", "title": "Сантехника"},
+    {"id": "kitchen", "title": "Кухня"}
+  ],
+  "items": [
+    {"id": "wardrobe", "cat": "korpus", "icon": "wardrobe", "tone": 0, "tag": "Под проект",
+     "title": "Гардероб и системы хранения", "desc": "Корпус из многослойной фанеры. Размеры и наполнение под ваш проект."},
+    {"id": "kitchen-set", "cat": "korpus", "icon": "kitchen", "tone": 1, "tag": "Под проект",
+     "title": "Кухонный гарнитур", "desc": "Индивидуальное решение под вашу планировку."},
+    {"id": "tv-unit", "cat": "korpus", "icon": "shelf", "tone": 2, "tag": "Под проект",
+     "title": "ТВ-зона и стеллажи", "desc": "Открытые и закрытые модули, собранные под проект."},
+
+    {"id": "sofa", "cat": "soft", "icon": "sofa", "tone": 3,
+     "title": "Диван", "desc": "Мягкая мебель среднего и премиум сегмента."},
+    {"id": "armchair", "cat": "soft", "icon": "armchair", "tone": 0,
+     "title": "Кресло", "desc": "Для гостиной, спальни или офиса."},
+
+    {"id": "dining-table", "cat": "tables", "icon": "table", "tone": 1,
+     "title": "Обеденный стол", "desc": "Столы для дома среднего и премиум сегмента."},
+    {"id": "chairs", "cat": "tables", "icon": "chair", "tone": 2,
+     "title": "Стулья", "desc": "Стулья для кухни, столовой и офиса."},
+    {"id": "office-desk", "cat": "tables", "icon": "desk", "tone": 3,
+     "title": "Офисный стол", "desc": "Рабочие столы для дома и офиса."},
+
+    {"id": "door", "cat": "doors", "icon": "door", "tone": 0,
+     "title": "Межкомнатная дверь", "desc": "С откосами и доборами."},
+    {"id": "door-custom", "cat": "doors", "icon": "door-arch", "tone": 1, "tag": "Под проект",
+     "title": "Уникальная дверь", "desc": "Нестандартные решения под ваш проект."},
+
+    {"id": "parquet", "cat": "floors", "icon": "parquet", "tone": 2,
+     "title": "Паркет", "desc": "Чистовое напольное покрытие из дерева."},
+    {"id": "engineered", "cat": "floors", "icon": "planks", "tone": 3,
+     "title": "Инженерная доска", "desc": "Многослойная доска для пола."},
+
+    {"id": "fabric-wallpaper", "cat": "walls", "icon": "wallpaper", "tone": 0,
+     "title": "Тканевые обои", "desc": "Текстильная отделка стен."},
+    {"id": "rice-glue", "cat": "walls", "icon": "bucket", "tone": 1,
+     "title": "Рисовый клей для обоев", "desc": "Безопасное решение для поклейки обоев."},
+    {"id": "wood-panels", "cat": "walls", "icon": "panels", "tone": 2,
+     "title": "Панели из натурального дерева", "desc": "Декоративные панели для стен."},
+    {"id": "plinth", "cat": "walls", "icon": "plinth", "tone": 3,
+     "title": "Алюминиевые плинтусы", "desc": "Аккуратный стык пола и стены."},
+
+    {"id": "faucets", "cat": "bath", "icon": "faucet", "tone": 0,
+     "title": "Смесители", "desc": "Для кухни и ванной."},
+    {"id": "bathtub", "cat": "bath", "icon": "bathtub", "tone": 1,
+     "title": "Ванны", "desc": "Ванны среднего и премиум сегмента."},
+    {"id": "smart-toilet", "cat": "bath", "icon": "toilet", "tone": 2,
+     "title": "Умный туалет", "desc": "Современная сантехника с электронными функциями."},
+    {"id": "vanity", "cat": "bath", "icon": "vanity", "tone": 3,
+     "title": "Тумба в ванную", "desc": "С раковиной из искусственного камня."},
+    {"id": "antibacterial", "cat": "bath", "icon": "sink", "tone": 0,
+     "title": "Антибактериальная сантехника", "desc": "Для тех, кто выбирает гигиеничные решения."},
+
+    {"id": "quartz", "cat": "kitchen", "icon": "counter", "tone": 1,
+     "title": "Кварцевая столешница", "desc": "Кухонные столешницы из кварца."}
+  ]
+}
